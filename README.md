@@ -33,5 +33,4 @@ Freight optimization isn't just about cutting costs—it’s about improving env
 - Multi-modal support (air, rail, sea)
 - Enhanced AI-powered route prediction
 
-## 📫 Contact
 
